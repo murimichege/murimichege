@@ -4,7 +4,6 @@ I really enjoy learning languages and frameworks such as React and React Native.
  
  🔭 I’m currently learning NodeJS.
 - 🌱 -   I'm proficient in Javascipt, React, React-Native, Expo,  HTML, CSS, Bootstrap, REST APIs, Firestore. 
-- 👯 I’m looking to collaborate on a full stack project as a front end developer.
 - 💬 Ask me anything about React Native
 - 📫 How to reach me: chegeeddie@gmail.com
 
