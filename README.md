@@ -3,8 +3,6 @@
 
  
 
-- 🌱 -   I am proficient in Javascipt,Typescript, React, NodeJS (ExpressJS), React-Native, Expo,  HTML, CSS, Bootstrap, REST APIs, Firebase. 
-- 💬 Ask me anything about React Native
--🌱 - Currently learning Golang. 
+- 🌱 -   I am proficient in Javascipt,Typescript, React,NextJS, NodeJS (ExpressJS), React-Native,Expo,REST APIs,Firebase,Golang,GRPC,Docker, PostGres. 
 - 📫 How to reach me: chegeeddie@gmail.com
 
